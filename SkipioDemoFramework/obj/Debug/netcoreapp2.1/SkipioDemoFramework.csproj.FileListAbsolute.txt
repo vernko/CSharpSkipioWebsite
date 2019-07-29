@@ -1,0 +1,9 @@
+/Users/vernkofford/Projects/SkipioDemo/SkipioDemoFramework/bin/Debug/netcoreapp2.1/SkipioDemoFramework.deps.json
+/Users/vernkofford/Projects/SkipioDemo/SkipioDemoFramework/bin/Debug/netcoreapp2.1/SkipioDemoFramework.dll
+/Users/vernkofford/Projects/SkipioDemo/SkipioDemoFramework/bin/Debug/netcoreapp2.1/SkipioDemoFramework.pdb
+/Users/vernkofford/Projects/SkipioDemo/SkipioDemoFramework/obj/Debug/netcoreapp2.1/SkipioDemoFramework.csproj.CoreCompileInputs.cache
+/Users/vernkofford/Projects/SkipioDemo/SkipioDemoFramework/obj/Debug/netcoreapp2.1/SkipioDemoFramework.AssemblyInfoInputs.cache
+/Users/vernkofford/Projects/SkipioDemo/SkipioDemoFramework/obj/Debug/netcoreapp2.1/SkipioDemoFramework.AssemblyInfo.cs
+/Users/vernkofford/Projects/SkipioDemo/SkipioDemoFramework/obj/Debug/netcoreapp2.1/SkipioDemoFramework.dll
+/Users/vernkofford/Projects/SkipioDemo/SkipioDemoFramework/obj/Debug/netcoreapp2.1/SkipioDemoFramework.pdb
+/Users/vernkofford/Projects/SkipioDemo/SkipioDemoFramework/obj/Debug/netcoreapp2.1/SkipioDemoFramework.csprojAssemblyReference.cache

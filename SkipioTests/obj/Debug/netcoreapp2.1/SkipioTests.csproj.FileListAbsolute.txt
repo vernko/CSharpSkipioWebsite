@@ -1,0 +1,17 @@
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/bin/Debug/netcoreapp2.1/SkipioTests.deps.json
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/bin/Debug/netcoreapp2.1/SkipioTests.runtimeconfig.json
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/bin/Debug/netcoreapp2.1/SkipioTests.runtimeconfig.dev.json
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/bin/Debug/netcoreapp2.1/SkipioTests.dll
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/bin/Debug/netcoreapp2.1/SkipioTests.pdb
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/bin/Debug/netcoreapp2.1/SkipioDemoFramework.dll
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/bin/Debug/netcoreapp2.1/SkipioDemoFramework.pdb
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/obj/Debug/netcoreapp2.1/SkipioTests.csprojAssemblyReference.cache
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/obj/Debug/netcoreapp2.1/SkipioTests.csproj.CoreCompileInputs.cache
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/obj/Debug/netcoreapp2.1/SkipioTests.AssemblyInfoInputs.cache
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/obj/Debug/netcoreapp2.1/SkipioTests.AssemblyInfo.cs
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/obj/Debug/netcoreapp2.1/SkipioTests.csproj.CopyComplete
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/obj/Debug/netcoreapp2.1/SkipioTests.dll
+/Users/vernkofford/Projects/SkipioDemo/SkipioTests/obj/Debug/netcoreapp2.1/SkipioTests.pdb

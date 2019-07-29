@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D7DEC48F-CCB3-4FC9-8C64-6CB5398C49C3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SkipioTests/Tests/SkipioTests.cs">
+    <Files>
+      <File FileName="SkipioDemoFramework/Pages/SkipioHomePage.cs" Line="67" Column="98" />
+      <File FileName="SkipioDemoFramework/Pages/PricingPage.cs" Line="40" Column="47" />
+      <File FileName="SkipioTests/Tests/SkipioTests.cs" Line="74" Column="46" />
+      <File FileName="SkipioDemoFramework/Pages/LoginPage.cs" Line="66" Column="94" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SkipioTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
